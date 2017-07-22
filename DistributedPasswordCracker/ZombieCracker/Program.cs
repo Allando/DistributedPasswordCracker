@@ -18,7 +18,8 @@ namespace ZombieCracker
 
             //Creates an IPEndPoint to record the IP Address and port number of the sender.  
             IPAddress ip = IPAddress.Parse("127.0.0.1");
-            IPEndPoint RemoteIpEndPoint = new IPEndPoint(ip, 9999);
+            int port = 9999;
+            IPEndPoint RemoteIpEndPoint = new IPEndPoint(ip, port);
 
             try
             {

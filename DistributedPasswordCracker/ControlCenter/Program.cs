@@ -17,11 +17,12 @@ namespace ControlCenter
 
             int number = 0;
 
-            IPAddress ip = IPAddress.Parse("127.0.0.1"); //
-            UdpClient udpClient = new UdpClient("127.0.0.1", 9999);
+            IPAddress ip = IPAddress.Parse("127.0.0.1");
+            int port = 9999;
+            UdpClient udpClient = new UdpClient("127.0.0.1", port);
 
-            IPEndPoint RemoteIpEndPoint = new IPEndPoint(ip, 9999); //
-            //udpClient.Connect(RemoteIpEndPoint); //
+            IPEndPoint RemoteIpEndPoint = new IPEndPoint(ip, port);
+            //udpClient.Connect(RemoteIpEndPoint);
 
             Console.Write("State name: ");
             String name = Console.ReadLine();
