@@ -13,6 +13,10 @@ namespace ZombieCracker
         static void Main(string[] args)
         {
             Console.WriteLine("ZOMBIE");
+
+
+
+            #region UDPServer
             //Creates a UdpClient for reading incoming data.
             UdpClient udpServer = new UdpClient(9999);
 
@@ -50,7 +54,8 @@ namespace ZombieCracker
             catch (Exception e)
             {
                 Console.WriteLine(e.ToString());
-            }
+            } 
+            #endregion
         }
     }
 }

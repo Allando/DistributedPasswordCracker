@@ -15,6 +15,10 @@ namespace ControlCenter
         {
             Console.WriteLine("CC");
 
+
+
+
+            #region UdpClient
             int number = 0;
 
             IPAddress ip = IPAddress.Parse("127.0.0.1");
@@ -30,7 +34,6 @@ namespace ControlCenter
             };
 
             Console.WriteLine(EndPointList.Count);
-
 
             Console.Write("State name: ");
             String name = Console.ReadLine();
@@ -48,7 +51,8 @@ namespace ControlCenter
                 number++;
 
                 Thread.Sleep(100);
-            }
+            } 
+            #endregion
         }
     }
 }
