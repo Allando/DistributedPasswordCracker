@@ -15,8 +15,10 @@ namespace ControlCenter
         {
             Console.WriteLine("CC");
 
+            string path = "";
 
-
+            Splitter split = new Splitter();
+            split.RunSplitter(path);
 
             #region UdpClient
             int number = 0;
