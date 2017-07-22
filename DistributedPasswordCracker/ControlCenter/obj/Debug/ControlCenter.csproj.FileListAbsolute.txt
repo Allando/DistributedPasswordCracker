@@ -1,0 +1,1 @@
+C:\Users\allan\Documents\Repositories\DistributedPasswordCracker\DistributedPasswordCracker\ControlCenter\obj\Debug\ControlCenter.csprojResolveAssemblyReference.cache
