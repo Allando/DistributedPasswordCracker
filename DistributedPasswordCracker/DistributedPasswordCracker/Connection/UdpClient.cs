@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DistributedPasswordCracker
+namespace DistributedPasswordCracker.Connection
 {
-    class Program
+    class UdpClient
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
