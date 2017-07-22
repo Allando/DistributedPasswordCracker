@@ -1,6 +1,5 @@
 C:\Users\allan\Documents\Repositories\DistributedPasswordCracker\DistributedPasswordCracker\ZombieCracker\bin\Debug\ZombieCracker.exe.config
 C:\Users\allan\Documents\Repositories\DistributedPasswordCracker\DistributedPasswordCracker\ZombieCracker\bin\Debug\ZombieCracker.exe
 C:\Users\allan\Documents\Repositories\DistributedPasswordCracker\DistributedPasswordCracker\ZombieCracker\bin\Debug\ZombieCracker.pdb
-C:\Users\allan\Documents\Repositories\DistributedPasswordCracker\DistributedPasswordCracker\ZombieCracker\obj\Debug\ZombieCracker.csprojResolveAssemblyReference.cache
 C:\Users\allan\Documents\Repositories\DistributedPasswordCracker\DistributedPasswordCracker\ZombieCracker\obj\Debug\ZombieCracker.exe
 C:\Users\allan\Documents\Repositories\DistributedPasswordCracker\DistributedPasswordCracker\ZombieCracker\obj\Debug\ZombieCracker.pdb

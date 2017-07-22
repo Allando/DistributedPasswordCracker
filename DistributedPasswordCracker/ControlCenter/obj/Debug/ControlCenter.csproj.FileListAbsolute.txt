@@ -1,4 +1,3 @@
-C:\Users\allan\Documents\Repositories\DistributedPasswordCracker\DistributedPasswordCracker\ControlCenter\obj\Debug\ControlCenter.csprojResolveAssemblyReference.cache
 C:\Users\allan\Documents\Repositories\DistributedPasswordCracker\DistributedPasswordCracker\ControlCenter\bin\Debug\ControlCenter.exe.config
 C:\Users\allan\Documents\Repositories\DistributedPasswordCracker\DistributedPasswordCracker\ControlCenter\bin\Debug\ControlCenter.exe
 C:\Users\allan\Documents\Repositories\DistributedPasswordCracker\DistributedPasswordCracker\ControlCenter\bin\Debug\ControlCenter.pdb

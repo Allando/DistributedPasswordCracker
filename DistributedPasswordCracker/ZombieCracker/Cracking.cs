@@ -6,10 +6,10 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
-using ZombieCracker.Model;
-using ZombieCracker.Utility;
+using ControlCenter.Model;
+using ControlCenter.Utility;
 
-namespace ZombieCracker
+namespace ControlCenter
 {
     class Cracking
     {
