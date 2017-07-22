@@ -22,7 +22,15 @@ namespace ControlCenter
             UdpClient udpClient = new UdpClient("127.0.0.1", port);
 
             IPEndPoint RemoteIpEndPoint = new IPEndPoint(ip, port);
-            //udpClient.Connect(RemoteIpEndPoint);
+            //udpClient.Connect(RemoteIpEndPoint); 
+
+            List<IPEndPoint> EndPointList = new List<IPEndPoint>
+            {
+                RemoteIpEndPoint
+            };
+
+            Console.WriteLine(EndPointList.Count);
+
 
             Console.Write("State name: ");
             String name = Console.ReadLine();
