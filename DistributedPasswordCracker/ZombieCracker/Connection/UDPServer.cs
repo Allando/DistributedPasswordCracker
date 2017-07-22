@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ZombieCracker.Connection
 {
-    class UDPServer
+    class UdpServer
     {
     }
 }
